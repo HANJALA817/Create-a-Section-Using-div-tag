@@ -1,0 +1,33 @@
+.container{
+ width: 600px;
+ margin: 30px auto;
+background: rgb(112, 109, 109);
+padding: 20px;
+}
+
+.title{
+    font-family: 'Ephesis' , cursive;
+    font-size: 36px;
+}
+
+.para{
+    font-family: 'Ephesis' , cursive;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.btn{
+    padding: 5px 10px;
+    text-transform: uppercase;
+
+}
+
+.primary-btn{
+    background: blue;
+    color: white;
+}
+
+.secondary-btn{
+    background: gray;
+    color: black;
+}
